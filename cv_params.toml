@@ -1,0 +1,18 @@
+# full name (with title or whatever)
+name = "Kamin Horvath"
+# phone number (optional)
+phonenumber = "(470) 421-8281"
+# email
+email = "kamin@kghorvath.com"
+# physical address (optional)
+address = "Atlanta, GA"
+# picture (optional)
+#picture = "picture.png"
+# footer (optional, evaluatable!)
+footer = "This can be evaluated! The sum `1 + 1` is #(1+1)."
+
+# all links are entirely optional
+[links]
+github = "https://github.com/kghorvath"
+linkedin = "https://www.linkedin.com/in/khorvath"
+personal = "https//www.kghorvath.com"
